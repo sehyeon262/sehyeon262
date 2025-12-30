@@ -1,4 +1,4 @@
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sehyeon%27s%20GitHub%21&fontAlign=50&fontAlignY=50&fontSize=45&color=gradient)
 
 ## 🛠 Tech Stack
 <p align="center">
