@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sehyeon%27s%20GitHub%21&fontAlign=50&fontAlignY=50&fontSize=45&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sehyeon%27s%20GitHub%21&fontAlign=50&fontAlignY=50&fontSize=50&color=gradient)
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<!--
+[![Sehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehyeon262)](https://github.com/sehyeon262/github-readme-stats)
+-->
+
+![Sehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehyeon262&show_icons=true&theme=catppuccin_latte)
+
+
 
 
 <!--
