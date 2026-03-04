@@ -49,9 +49,9 @@
 
 ## 🚀 Projects
 
-| Project | Period | Description |
-|------|------|------|
-| [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동을 위한 AI 기반 집중력 향상 서비스 |
+| Category | Project | Period | Description |
+|------|------|------|------|
+| SSAFY 14기 공통 프로젝트 | [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동을 위한 AI 기반 집중력 향상 서비스 |
 
 
 
