@@ -39,8 +39,19 @@
 </p>
 
 
+## 🏆 Awards
 
+| Award | Project | Period | Description |
+|------|------|------|------|
+| 🥇 SSAFY 14기 관통 프로젝트 최우수상 | [TRAVUS](https://github.com/sehyeon262/TRAVUS) | 2025.11 – 2025.12 | AI 기반 배리어프리 여행 경로 추천 서비스 |
 
+---
+
+## 🚀 Projects
+
+| Project | Period | Description |
+|------|------|------|
+| [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동을 위한 AI 기반 집중력 향상 서비스 |
 
 
 
