@@ -17,6 +17,7 @@
   <!-- <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black"/>  -->
   <!-- <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### Backend
@@ -43,15 +44,14 @@
 
 | Award | Project | Period | Description |
 |------|------|------|------|
-| 🥇 SSAFY 14기 관통 프로젝트 최우수상 | [TRAVUS](https://github.com/sehyeon262/TRAVUS) | 2025.11 – 2025.12 | AI 기반 배리어프리 여행 경로 추천 서비스 |
-
+| SSAFY 14기 관통 프로젝트 최우수상 | [TRAVUS](https://github.com/sehyeon262/TRAVUS) | 2025.11 – 2025.12 | AI 기반 배리어프리 여행 경로 추천 |
 
 
 ## 🚀 Projects
 
 | Category | Project | Period | Description |
 |------|------|------|------|
-| SSAFY 14기 공통 프로젝트 | [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동을 위한 AI 기반 집중력 향상 서비스 |
+| SSAFY 14기 공통 프로젝트 | [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동 집중력 향상 AI 서비스 ||
 
 
 ## 📜 Certifications
