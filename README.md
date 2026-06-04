@@ -51,7 +51,9 @@
 
 | Category | Project | Period | Description |
 |------|------|------|------|
-| SSAFY 14기 공통 프로젝트 | [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동 집중력 향상 AI 서비스 ||
+| SSAFY 14기 공통 프로젝트 | [Icethang](https://github.com/sehyeon262/Icethang) | 2026.01 – 2026.02 | ADHD 아동 집중력 향상 AI 서비스 |
+| SSAFY 14기 특화 프로젝트 | [DangDong](https://github.com/sehyeon262/DangDong) | 2026.02 – 2026.04 | 위치 기반 반려견 맞춤 산책 추천 서비스 |
+| SSAFY 14기 자율 프로젝트 | [WISH](https://github.com/sehyeon262/WISH) | 2026.04 – 2026.05 | 소아암 환아를 위한 AI 일상회복 플랫폼 |
 
 
 ## 📜 Certifications
