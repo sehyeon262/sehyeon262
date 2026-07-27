@@ -55,6 +55,7 @@
 | SSAFY 14기 특화 프로젝트 | [DangDong](https://github.com/sehyeon262/DangDong) | 2026.02 – 2026.04 | 위치 기반 반려견 맞춤 산책 추천 서비스 |
 | SSAFY 14기 자율 프로젝트 | [WISH](https://github.com/sehyeon262/WISH) | 2026.04 – 2026.05 | 소아암 환아를 위한 AI 일상회복 플랫폼 |
 
+---
 
 ## 📜 Certifications
 
@@ -62,3 +63,5 @@
 - **정보처리기사** | 한국산업인력공단 | 2025.06.13  
 - **SQLD** | 한국데이터산업진흥원 | 2025.04.04  
 - **ADsP** | 한국데이터산업진흥원 | 2025.03.21
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
