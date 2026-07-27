@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sehyeon%27s%20GitHub%21&fontAlign=50&fontAlignY=50&fontSize=50&color=gradient)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=0:91D5FF,100:4096FF&text=Sehyeon's%20GitHub!&fontAlign=50&animation=scaleIn&fontSize=40&fontColor=334155&reversal=false)
 
 ## 🛠 Tech Stack
 
