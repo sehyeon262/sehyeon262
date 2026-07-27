@@ -64,4 +64,6 @@
 - **SQLD** | 한국데이터산업진흥원 | 2025.04.04  
 - **ADsP** | 한국데이터산업진흥원 | 2025.03.21
 
+---
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
