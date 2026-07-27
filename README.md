@@ -5,7 +5,7 @@
 **Languages**  
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>
   <img src="https://cdn.simpleicons.org/css/663399" width="42" height="42" alt="CSS3"/>
