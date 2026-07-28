@@ -37,9 +37,9 @@
 - **Role**: AI
 - **Tech Stack**: Python, FastAPI, PyTorch, MediaPipe, Whisper, RAG
 - **Key Features**
-  - AI 동작 채점 API 개발
-  - Whisper STT와 RAG 기반 NPC 대화 기능 구현
-  - 환아 데이터 수집 및 모델 성능 개선
+  - MediaPipe 기반 운동 동작 분석 및 AI 채점 로직 구현
+  - AI 동작 채점 파이프라인 설계 및 FastAPI 기반 API 연동
+  - 관절 좌표 추출, 동작 유사도 분석, 점수 산출 로직 구현
 
 ---
 
