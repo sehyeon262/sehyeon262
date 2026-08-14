@@ -1,93 +1,49 @@
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=0:91D5FF,100:4096FF&text=Hello,%20I'm%20Sehyeon!&fontAlign=50&animation=scaleIn&fontSize=40&fontColor=334155&reversal=false)
 
+
+### AI-driven Full-stack Developer
+
+AI를 활용해 사용자 문제를 해결하는 **풀스택 개발자**를 지향합니다.  
+Frontend와 Backend를 함께 이해하며, AI 기반 기능을 실제 서비스 흐름에 자연스럽게 연결하는 데 관심이 있습니다.
+
+
+## 🗂 Projects
+
+| 프로젝트명 | 프로젝트 소개 | 역할 | 수상 |
+|:---:|:---:|:---:|:---:|
+| [WISH](https://github.com/sehyeon262/WISH) | 소아암 환아를 위한 AI 일상회복 플랫폼 | AI |  |
+| [DangDong](https://github.com/sehyeon262/DangDong) | 위치 기반 반려견 맞춤 산책 추천 서비스 | Frontend / Backend |  |
+| [Icethang](https://github.com/sehyeon262/Icethang) | ADHD 아동 집중력 향상 AI 서비스 | Frontend |  |
+| [TRAVUS](https://github.com/sehyeon262/TRAVUS) | AI 기반 배리어프리 여행 경로 추천 서비스 | Frontend / Backend | 🥇 최우수상 |
+
+
 ## 🛠 Skills
 
-**Languages**  
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css/663399" width="42" height="42" alt="CSS3"/>
-</p>
+| Category | Tech Stack |
+|:---:|:---:|
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
+| **Collaboration** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white) |
 
-**Development Stack**
-<p>
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="42" height="42" alt="Vue"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"/>
-  <img src="https://cdn.simpleicons.org/django/092E20" width="42" height="42" alt="Django"/>  
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42" alt="MySQL"/>
-</p>
-
-**Collaboration & Tools**  
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/notion/000000" width="42" height="42" alt="Notion"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="42" height="42" alt="Jira"/>
-</p>
-
-
-## 🚀 Projects
-
-### [WISH](https://github.com/sehyeon262/WISH)
-**소아암 환아를 위한 AI 일상회복 플랫폼**
-
-- **Period**: 2026.04 - 2026.05 (8주)
-- **Role**: AI
-- **Tech Stack**: Python, FastAPI, PyTorch, MediaPipe, Whisper, RAG
-- **Key Features**
-  - MediaPipe 기반 운동 동작 분석 및 AI 채점 로직 구현
-  - AI 동작 채점 파이프라인 설계 및 FastAPI 기반 API 연동
-  - 관절 좌표 추출, 동작 유사도 분석, 점수 산출 로직 구현
-
----
-
-### [DangDong](https://github.com/sehyeon262/DangDong)
-**위치 기반 반려견 맞춤 산책 추천 서비스**
-
-- **Period**: 2026.02 - 2026.04 (7주)
-- **Role**: Frontend / Backend
-- **Tech Stack**: Kotlin, Jetpack Compose, Spring Boot, Kakao Maps, WebSocket
-- **Key Features**
-  - 산책 세션 관리 및 위치 기록 API 개발
-  - Kakao Map 기반 산책 지도 화면 구현
-  - WebSocket 기반 실시간 채팅 기능 구현
-
----
-
-### [Icethang](https://github.com/sehyeon262/Icethang)
-**ADHD 아동 집중력 향상 AI 서비스**
-
-- **Period**: 2026.01 - 2026.02 (6주)
-- **Role**: Frontend
-- **Tech Stack**: React Native, TypeScript, Expo, Redux Toolkit
-- **Key Features**
-  - React Native 기반 주요 화면 구현
-  - 교사/학생용 학습 흐름 설계
-  - 학습 기록 API 연동 및 UI 개선
-
----
-
-### [TRAVUS](https://github.com/sehyeon262/TRAVUS)
-**AI 기반 배리어프리 여행 경로 추천 서비스**
-
-- **Period**: 2025.11 - 2025.12 (6주)
-- **Role**: Frontend / Backend
-- **Tech Stack**: Vue.js, Django REST Framework, OpenAI API, Pinia
-- **Key Features**
-  - 사용자 조건을 기반으로 접근성 친화 여행 경로 추천
-  - 여행지 및 경로 정보 조회 기능 구현
-  - SSAFY 14기 관통 프로젝트 최우수상 수상
- 
 
 ## 📜 Certifications
 
-- **빅데이터분석기사** | 한국데이터산업진흥원 | 2025.12.19  
-- **정보처리기사** | 한국산업인력공단 | 2025.06.13  
-- **SQLD** | 한국데이터산업진흥원 | 2025.04.04  
-- **ADsP** | 한국데이터산업진흥원 | 2025.03.21
+| 자격증 | 발급 기관 | 취득일 |
+|:---:|:---:|:---:|
+| 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.12.19 |
+| 정보처리기사 | 한국산업인력공단 | 2025.06.13 |
+| SQLD | 한국데이터산업진흥원 | 2025.04.04 |
+| ADsP | 한국데이터산업진흥원 | 2025.03.21 |
 
----
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+## 🎓 Education & Activity
+| 교육기관 및 활동 내용 | 기간 | 비고 |
+|---|---|---|
+| 삼성 청년 SW·AI 아카데미 14기 | 2025.07.08 ~ 2026.06.30 | 1,725시간 |
+| ARES | 2022.03.02 ~ 2022.12.21 | 동아리 임원 (총괄) |
+| one.p_ice | 2021.03.02 ~ 2021.12.22 | 학과 학생회(홍보부) |
+| 부경대학교 정보통신공학전공 | 2021.03.02 ~ 2025.02.21 | |
+
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
