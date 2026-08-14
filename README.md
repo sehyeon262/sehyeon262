@@ -1,10 +1,10 @@
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=0:91D5FF,100:4096FF&text=Hello,%20I'm%20Sehyeon!&fontAlign=50&animation=scaleIn&fontSize=40&fontColor=334155&reversal=false)
 
 
-### AI-driven Full-stack Developer
+### AI 기반 서비스 개발에 관심 있는 풀스택 개발자
 
-AI를 활용해 사용자 문제를 해결하는 **풀스택 개발자**를 지향합니다.  
-Frontend와 Backend를 함께 이해하며, AI 기반 기능을 실제 서비스 흐름에 자연스럽게 연결하는 데 관심이 있습니다.
+AI 기능을 활용해 사용자 문제를 해결하는 서비스 개발에 관심이 있습니다.  
+Frontend와 Backend를 함께 이해하며, 기획한 기능을 실제 서비스 흐름에 맞게 구현하는 경험을 쌓고 있습니다.
 
 
 ## 🗂 Projects
