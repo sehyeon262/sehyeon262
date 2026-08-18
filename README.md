@@ -12,7 +12,7 @@ Frontend와 Backend를 함께 이해하며, 기획한 기능을 실제 서비스
 | 프로젝트명 | 프로젝트 소개 | 역할 | 수상 |
 |:---:|:---:|:---:|:---:|
 | [WISH](https://github.com/sehyeon262/WISH) | 소아암 환아를 위한 AI 일상회복 플랫폼 | AI |  |
-| [DangDong](https://github.com/sehyeon262/DangDong) | 위치 기반 반려견 맞춤 산책 추천 서비스 | Frontend / Backend |  |
+| [DaengDong](https://github.com/sehyeon262/DaengDong) | 위치 기반 반려견 맞춤 산책 추천 서비스 | Frontend / Backend |  |
 | [Icethang](https://github.com/sehyeon262/Icethang) | ADHD 아동 집중력 향상 AI 서비스 | Frontend |  |
 | [TRAVUS](https://github.com/sehyeon262/TRAVUS) | AI 기반 배리어프리 여행 경로 추천 서비스 | Frontend / Backend | 🥇 최우수상 |
 
